@@ -1,4 +1,4 @@
-# consolePaperScissors
+# RockPaperScissorsUI
 A game of Rock, Paper, Scissors done in the browser.
 
 TODO
